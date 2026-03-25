@@ -1,0 +1,11 @@
+nombre = "Gonzalo"
+edad = 37
+alt = 1.75
+gusta_programar = True
+anio_actual = 2026
+nacimiento = anio_actual - edad
+print(nonombre)
+print(edad)
+print(alt)
+print(gusta_programar)
+print(nacimiento)
