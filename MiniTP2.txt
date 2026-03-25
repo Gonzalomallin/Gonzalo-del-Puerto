@@ -1,0 +1,64 @@
+Ejercicio 1
+
+Alguien con X años (variable) y que cumple ciertos requisitos (ser mayor de edad y tener documento) puede entrar o no a determinado lugar si cumple esas
+condiciones
+
+Ejercicio 2
+
+Con una determinada temperatura (variable) y según determinadas condiciones, imprime distintos resultados.
+
+Ejercicio 3
+
+edad = 20						
+es_mayor_edad = edad > 18				
+tiene_documento = True						
+if(es_mayor_edad and tiene_documento):				
+	print("puede entrar")
+
+Ejercicio 4
+
+temperatura = 15					
+if(temperatura < 10):					
+	print("usar abrigo")			
+elif(10 =< temperatura <= 20):				
+	print("usar ropa media")		
+else:						
+	print("usar ropa liviana")
+
+Ejercicio 5
+
+numero = 14
+if(numero % 2 == 0 and numero >= 10):
+	print("el numero es par y es mayor a 10")
+
+Ejercicio 6
+
+clave_almacenada = "12345"
+clave_ingresada = "12345"
+uso_token = True
+if(clave almacenada == clave ingresada):
+	print("acceso permitido")
+elif(uso_token):
+	print("acceso permitido")
+else:
+	print("acceso denegado")
+
+Ejercicio 7
+
+Se aplica el descuento porque cumple las condiciones gracias al operador lógico "and" y "or" 
+
+Ejercicio 8
+
+for i in range(1,6):		
+	print(i)
+
+Ejercicio 9
+
+for i in range(1,11):
+	resultado = 2 * {i}
+	print(f"2 x {i} = {resultado}")
+
+Ejercicio 10
+
+No logre entenderlo.
+
